@@ -1,10 +1,5 @@
 import styled from '@emotion/styled';
 
-export const Container = styled.div`
-  width: 600px;
-  margin: 0 auto;
-`;
-
 export const Section = styled.section`
   width: 600px;
   margin: 0 auto;
